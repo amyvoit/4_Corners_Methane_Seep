@@ -1,0 +1,25 @@
+#Virtual environment
+venv/
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+#Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+#Log files
+*.log
+
+#OS-specific files
+.DS_Store
+
+#IDE-specific files
+.vscode/
+.idea/
+
+#Others
+*.swp
+*.bak
+*.tmp
